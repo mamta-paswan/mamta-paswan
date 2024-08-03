@@ -1,22 +1,14 @@
 # 👋 Hi, I’m Mamta Paswan
 
 ## 👀 I’m interested in
-- Web Design and Development
-- WordPress Development
-- Frontend Development
-- Responsive Website Design
-- Enhancing my professional skills in web technologies
+Web Design and Development | WordPress Development | Frontend Development | Responsive Website Design | Enhancing my professional skills in web technologies
 
 ## 🌱 I’m currently learning
-- Python
-- Advanced WordPress Development
-- Enhancing my skills in PHP, JavaScript, and etc.
+Python | Advanced WordPress Development | Enhancing my skills in PHP, JavaScript, and more
 
 ## 💞️ I’m looking to collaborate on
-- WordPress Development projects
-- Responsive web design projects
-- Frontend development projects
-- Any interesting web development projects
+WordPress Development projects | Responsive web design projects | Frontend development projects | Any interesting web development projects
+
 
 ## 📫 How to reach me
 - Email: mamtapaswan2021@gmail.com
