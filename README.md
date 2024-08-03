@@ -10,7 +10,7 @@
 ## 🌱 I’m currently learning
 - Python
 - Advanced WordPress Development
-- Enhancing my skills in PHP, JavaScript, and other web technologies
+- Enhancing my skills in PHP, JavaScript, and etc.
 
 ## 💞️ I’m looking to collaborate on
 - WordPress Development projects
