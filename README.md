@@ -20,7 +20,6 @@
 
 ## 📫 How to reach me
 - Email: mamtapaswan2021@gmail.com
-- Phone: 859-596-7196
 - LinkedIn: [Your LinkedIn Profile](#)
 
 <!---
