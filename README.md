@@ -1,8 +1,27 @@
-- 👋 Hi, I’m Mamta Paswan
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Mamta Paswan
+
+## 👀 I’m interested in
+- Web Design and Development
+- WordPress Development
+- Frontend Development
+- Responsive Website Design
+- Enhancing my professional skills in web technologies
+
+## 🌱 I’m currently learning
+- Python
+- Advanced WordPress Development
+- Enhancing my skills in PHP, JavaScript, and other web technologies
+
+## 💞️ I’m looking to collaborate on
+- WordPress Development projects
+- Responsive web design projects
+- Frontend development projects
+- Any interesting web development projects
+
+## 📫 How to reach me
+- Email: mamtapaswan2021@gmail.com
+- Phone: 859-596-7196
+- LinkedIn: [Your LinkedIn Profile](#)
 
 <!---
 codermamtapaswan/codermamtapaswan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
