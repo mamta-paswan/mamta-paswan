@@ -20,7 +20,7 @@
 
 ## 📫 How to reach me
 - Email: mamtapaswan2021@gmail.com
-- LinkedIn: [Your LinkedIn Profile](#)
+
 
 <!---
 codermamtapaswan/codermamtapaswan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
