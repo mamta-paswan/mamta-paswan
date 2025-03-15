@@ -1,7 +1,3 @@
-Here's a modified version of your GitHub profile **About** section with improved readability and structure:  
-
----
-
 # 👋 Hi, I’m Mamta Paswan  
 
 ## 👀 About Me  
