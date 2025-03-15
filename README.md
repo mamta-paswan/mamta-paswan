@@ -1,20 +1,29 @@
-# 👋 Hi, I’m Mamta Paswan
+Here's a modified version of your GitHub profile **About** section with improved readability and structure:  
 
-## 👀 I’m interested in
-Web Design and Development | WordPress Development | Frontend Development | Responsive Website Design | Enhancing my professional skills in web technologies
+---
 
-## 🌱 I’m currently learning
-Python | Advanced WordPress Development | Enhancing my skills in PHP, JavaScript, and more
+# 👋 Hi, I’m Mamta Paswan  
 
-## 💞️ I’m looking to collaborate on
-WordPress Development projects | Responsive web design projects | Frontend development projects | Any interesting web development projects
+## 👀 About Me  
+I’m a passionate **Web Developer** with expertise in **WordPress Development**, **Frontend Development**, and **Responsive Website Design**. I love building scalable and high-performance websites that enhance user experience. Constantly learning and evolving, I strive to improve my skills in modern web technologies.  
 
+## 🚀 Skills & Interests  
+✅ **Web Design & Development**  
+✅ **WordPress Theme & Plugin Development**  
+✅ **Frontend Development (JavaScript, jQuery, AJAX, Tailwind CSS, Bootstrap)**  
+✅ **PHP & MySQL**  
+✅ **Building Responsive & User-Friendly Websites**  
 
-## 📫 How to reach me
-- Email: mamtapaswan2021@gmail.com
+## 🌱 Currently Learning  
+📌 **Advanced WordPress Development**  
+📌 **Python for Web Development**  
+📌 **Enhancing my skills in PHP, JavaScript, and modern frameworks**  
 
+## 💡 Looking to Collaborate On  
+🔹 **WordPress Development Projects**  
+🔹 **Custom Theme & Plugin Development**  
+🔹 **Frontend Development Projects**  
+🔹 **Responsive Web Design Projects**  
 
-<!---
-codermamtapaswan/codermamtapaswan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 How to Reach Me  
+📩 **Email:** [mamtapaswan2021@gmail.com](mailto:mamtapaswan2021@gmail.com)  
