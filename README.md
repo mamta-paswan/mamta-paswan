@@ -12,12 +12,12 @@ I’m a passionate **Web Developer** with expertise in **WordPress Development**
 
 ## 🌱 Currently Learning  
 📌 **Advanced WordPress Development**  
+📌 **Plugin Development**    
 📌 **Python for Web Development**  
 📌 **Enhancing my skills in PHP, JavaScript, and modern frameworks**  
 
 ## 💡 Looking to Collaborate On  
 🔹 **WordPress Development Projects**  
-🔹 **Custom Theme & Plugin Development**  
 🔹 **Frontend Development Projects**  
 🔹 **Responsive Web Design Projects**  
 
