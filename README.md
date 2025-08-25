@@ -22,7 +22,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat\&logo=webpack\&logoColor=black)
 
---
+---
 
 ## 🌐 Connect with Me
 
