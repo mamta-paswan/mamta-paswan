@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mamta Paswan
 
-💻 **Web & WordPress Developer**  🚀 Scalable Web Apps | 🌐 PHP · Laravel · Flask · JS
+💻 **Web & WordPress Developer** | 🚀 Scalable Web Apps | 🌐 PHP · Laravel · Flask · JS
 
 ---
 
