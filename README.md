@@ -37,11 +37,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:mamtapaswan2021@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat\&logo=github\&logoColor=white)](https://github.com/yourusername)
-
----
-
-🔥 This style says: *“I’m skilled, active, and professional”* without writing too much.
-Top developers keep it **concise + stats heavy** so recruiters instantly see **impact + activity**.
-
-👉 Do you want me to also add a **short tagline/quote at the top** like:
-*"Transforming ideas into scalable web solutions 🚀"* — which many top devs do for personal branding?
