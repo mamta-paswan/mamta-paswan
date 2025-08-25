@@ -2,8 +2,6 @@
 
 💻 **Web & WordPress Developer** | 🚀 Scalable Web Apps | 🌐 PHP · Laravel · Flask · JS
 
----
-
 ## ⚡ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
