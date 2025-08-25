@@ -1,16 +1,3 @@
-Excellent question 🚀 — you want your GitHub profile to **look like a top 1% developer’s profile**.
-What they usually do is:
-
-* Keep it **minimal yet professional** (no long paragraphs).
-* Use **badges/icons** to showcase skills.
-* Add **GitHub stats cards** (contribution graph, streak, top languages).
-* Sometimes add a **quote or tagline** that shows ambition.
-* Place **contact/socials** neatly.
-
-Here’s a **refined “top 1% style” GitHub profile** for you 👇
-
----
-
 # 👋 Hi, I’m Mamta Paswan
 
 💻 **Web & WordPress Developer** | 🚀 Building scalable, responsive, and high-performance websites | 🌐 Full-stack capable (PHP, Laravel, Flask, JS)
